@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madelyncruz&langs_count=8)](https://github.com/madelyncruz/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=madelyncruz&label=Profile+Views)
-
 <!--
 **madelyncruz/madelyncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
