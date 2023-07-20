@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Madelyn's GitHub stats](https://github-readme-stats.madelyncruz.vercel.app/api?username=madelyncruz&rank_icon=github&hide=stars&include_all_commits=true&show_icons=true&count_private=true&theme=gotham)
+[![Madelyn's GitHub Streak](https://streak-stats.demolab.com?user=madelyncruz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.madelyncruz.vercel.app/api/top-langs/?username=madelyncruz&langs_count=8&theme=gotham)](https://github.com/madelyncruz/github-readme-stats)
 
