@@ -33,7 +33,7 @@ I'm a full-stack developer with 11 years of experience developing simple and com
 
 <p align="center">
   <a href="https://github.com/madelyncruz/github-readme-stats">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=madelyncruz&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Madelyn's GitHub Streak" width="52.4%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=madelyncruz&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="Madelyn's GitHub Streak" width="52.4%" />
   </a>
   <a href="https://github.com/madelyncruz/github-readme-stats">
     <img src="https://streak-stats.demolab.com?user=madelyncruz&theme=dark&hide_border=true" alt="Madelyn's GitHub Stats" width="45.6%" />
